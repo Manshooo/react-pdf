@@ -628,8 +628,6 @@ export default function Page(props: PageProps): React.ReactElement {
         ['--scale-factor' as string]: `${scale}`,
         backgroundColor: canvasBackground || 'white',
         position: 'relative',
-        minWidth: 'min-content',
-        minHeight: 'min-content',
       }}
       {...eventProps}
     >

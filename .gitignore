@@ -19,7 +19,6 @@
 
 # Project-generated directories and files
 coverage
-dist
 node_modules
 playwright-report
 test-results
